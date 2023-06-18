@@ -3,7 +3,7 @@
 Este proyecto utiliza la biblioteca Mediapipe y OpenCV para realizar un seguimiento de la mano en tiempo real y controlar el mouse. El código está escrito en Python.
 
 ## Demo
-![Ejemplo de imagen](image.png)
+![Ejemplo de imagen](imagen.png)
 
 ## Requisitos
 

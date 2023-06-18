@@ -11,8 +11,8 @@ width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 
 # Variables para el tamaño deseado de la ventana
-window_width = 800
-window_height = 600
+window_width = 1000
+window_height = 800
 
 with mp_hands.Hands(
         static_image_mode=False,
