@@ -1,28 +1,41 @@
 # Hand Tracking
 
-## Descripción:
-Desarrollé un emocionante proyecto de seguimiento de manos que utiliza las bibliotecas Mediapipe y OpenCV en Python. Este proyecto permite realizar un seguimiento en tiempo real de la mano frente a la cámara y utiliza los gestos para controlar el mouse de manera intuitiva.
-## Demo
-![Ejemplo de imagen](imagen.png)
+# Proyecto de Seguimiento de Manos para Control de Mouse con IA y Deep Learning
 
-## Tecnologías Utilizadas:
+## Descripción
+
+Desarrollé un emocionante proyecto de seguimiento de manos que utiliza las bibliotecas Mediapipe y OpenCV en Python, aprovechando la potencia de la inteligencia artificial (IA) y el deep learning. Este proyecto permite realizar un seguimiento en tiempo real de la mano frente a la cámara y utiliza algoritmos avanzados de Mediapipe para interpretar gestos y controlar el mouse de manera intuitiva.
+
+## Tecnologías y Palabras Clave
+
 - Python
 - OpenCV
 - Mediapipe
 - PyAutoGUI
-## Funcionalidades Principales:
-- Seguimiento en Tiempo Real: La aplicación detecta la posición de la mano en tiempo real utilizando la detección de landmarks con Mediapipe.
+- Seguimiento de Manos
+- Control de Mouse
+- Visión por Computadora
+- Inteligencia Artificial (IA)
+- Deep Learning
 
-- Control de Mouse: Mueve el cursor del mouse de acuerdo con los movimientos de la mano, brindando una experiencia interactiva y sin necesidad de hardware adicional.
+## Funcionalidades Principales
 
-- Interacción Gestual: Reconoce gestos específicos, como cerrar la mano para realizar clics izquierdos y abrir la mano para mantener el estado del mouse en reposo.
+1. **Seguimiento en Tiempo Real con IA:** La aplicación utiliza la detección de landmarks con Mediapipe, basada en modelos de IA, para realizar un seguimiento preciso de la mano en tiempo real.
 
-# Resultados y Logros:
-Implementación exitosa de la detección de manos y gestos utilizando Mediapipe.
-Integración fluida con OpenCV para el procesamiento de imágenes y la visualización en tiempo real.
-Mejora de la experiencia del usuario al proporcionar una forma innovadora de controlar el mouse sin dispositivos externos.
-Aprendizaje Continuo:
-Como desarrollador Full-Stack, este proyecto me brindó la oportunidad de explorar la intersección entre visión por computadora, automatización y control de interfaz de usuario. Además, la experiencia me permitió perfeccionar mis habilidades en Python, OpenCV y Mediapipe, demostrando mi capacidad para adaptarme a tecnologías emergentes y crear soluciones creativas.
+2. **Control de Mouse con Algoritmos Avanzados:** La interpretación de gestos se realiza mediante técnicas avanzadas de inteligencia artificial y deep learning, permitiendo un control preciso del cursor del mouse.
+
+3. **Interacción Gestual:** Reconoce gestos específicos, como cerrar la mano para realizar clics izquierdos y abrir la mano para mantener el estado del mouse en reposo.
+
+## Resultados y Logros
+
+- Implementación exitosa de modelos de seguimiento de manos con Mediapipe y OpenCV, utilizando técnicas de IA y deep learning.
+- Integración fluida con OpenCV para el procesamiento de imágenes y la visualización en tiempo real.
+- Mejora de la experiencia del usuario al proporcionar una forma innovadora de controlar el mouse sin dispositivos externos gracias a la aplicación de técnicas avanzadas de IA.
+
+## Aprendizaje Continuo y Exploración Tecnológica
+
+Como desarrollador Full-Stack orientado a datos, este proyecto me brindó la oportunidad de explorar la intersección entre visión por computadora, inteligencia artificial y automatización. Mi enfoque resalta mi capacidad para abordar desafíos tecnológicos complejos y crear soluciones innovadoras y personalizadas.
+
 
 ## Instalación
 
