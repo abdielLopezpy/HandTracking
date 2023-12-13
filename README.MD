@@ -36,8 +36,8 @@ Desarrollé un emocionante proyecto de seguimiento de manos que utiliza las bibl
 
 Como desarrollador Full-Stack orientado a datos, este proyecto me brindó la oportunidad de explorar la intersección entre visión por computadora, inteligencia artificial y automatización. Mi enfoque resalta mi capacidad para abordar desafíos tecnológicos complejos y crear soluciones innovadoras y personalizadas.
 
-
-## Instalación
+## Demo
+![Ejemplo de imagen](imagen.png)## Instalación
 
 1. Clona este repositorio o descarga los archivos.
 
